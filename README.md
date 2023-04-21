@@ -94,8 +94,6 @@ print("Population = 70000 , we predict a profit of $"+str(round(pred2,0)))
 
 ![image](https://user-images.githubusercontent.com/118706984/233589786-1b26c883-3c41-4a78-bdfd-322e4a92eade.png)
 
-![image](https://user-images.githubusercontent.com/118706984/233589820-89c416f6-361d-475f-a4fd-e4e522436b6e.png)
-
 ![image](https://user-images.githubusercontent.com/118706984/233589986-26053536-775e-4555-9cb6-2e1a9c04de6e.png)
 
 ## Result:
