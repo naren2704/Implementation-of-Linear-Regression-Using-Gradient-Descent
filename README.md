@@ -18,8 +18,8 @@ Display the predicted values and end the program
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by:J.Archana priya 
-RegisterNumber:  212221230007
+Developed by: NARENDRAN B
+RegisterNumber:  212222240069
 */
 import numpy as np
 import matplotlib.pyplot as plt
