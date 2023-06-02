@@ -6,13 +6,19 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Equipments Required:
 
-Hardware – PCs
-Anaconda – Python 3.7 Installation / Jupyter notebook
-Algorithm
-Import all the required packages.
-Display the output values using graphical representation tools as scatter plot and graph.
-predict the values using predict() function.
-Display the predicted values and end the program
+1.Hardware – PCs
+
+2.Anaconda – Python 3.7 Installation / Jupyter notebook
+
+3.Algorithm
+
+4.Import all the required packages.
+
+5.Display the output values using graphical representation tools as scatter plot and graph.
+
+6.predict the values using predict() function.
+
+7.Display the predicted values and end the program
 
 ## Program:
 ```
